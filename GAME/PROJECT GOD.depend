@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706114362 source:e:\ktlt\gvbhfhu\project god\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<thread>
+
+1706356685 source:c:\users\pc\downloads\game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<thread>
+
